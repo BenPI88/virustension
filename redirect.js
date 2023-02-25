@@ -1,1 +1,1 @@
-location.replace("virustension.html")
+window.location.replace("virustension.html")
