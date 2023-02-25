@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "ViruStension",
+  "description": "Def not virus!",
+  "version": "1.0",
+  "action": {
+    "default_icon": "vector-logo-red.png"
+  }
+}
